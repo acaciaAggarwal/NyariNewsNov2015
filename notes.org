@@ -1,0 +1,102 @@
+* page 1 - Intro
+short para here about this edition
+
+* page 2 - Finances
+some notes about finances, one image, right gutter has currency image and committee members
+
+* page 3 - Environment 
+some notes about our Nyari environment, half page of text, one image(centred)
+a walk through Nyari - GPS map from OSM? Images by Neal?
+
+* page 4 - environmental/nature feature
+something of interest, dramatic image and text
+This time we go out of Nyari to look at NNP.
+Some images here from Goog and a write-up. Can Acacia do this?
+
+* page 5 - Image Gallery
+idea - Neal to go out and get some images of Nyari estate
+
+* page 6 - Maintenance
+write a short article about modern maintenance techniques
+road construction robots?
+
+Researchers from the Georgia Tech Research Institute developed a road repair system that aims to extend the lifespan of roadways by filling cracks as they appear. If feasible, the system could replace large road crews and perform the same repairs faster, cheaper and safer.
+
+Driven by a single truck driver, the system’s stereoscopic camera takes two photos of the road and builds a “crack map” within 100 milliseconds. Driving at three mph the system then controls 12 nozzles that spray sealant into cracks that can be smaller than an eighth of an inch. Tests showed the system identified 83 percent of road cracks.
+
+Researchers plan to improve the system by refining the crack detection feature so the system is not fooled by oil stains, lane stripes, raised pavement markers and other objects. Researchers also plan to build a full-scale prototype that will be used on a 13-foot-wide stretch of road and maybe incorporate a 3-D laser scanner.
+
+image here >> http://www.govtech.com/transportation/Georgia-Tech-Robot-Repairs-Road-Ruptures.html
+
+* page 7 - ICT
+Windows is dying out, members should prepare for UNIX
+Title: Prepping for UNIX
+
+http://www.zdnet.com/article/windows-isnt-dying-its-just-becoming-irrelevant/
+good article that gives fodder for writing on why windows is going to go away. Tell readership to prepare to widen their choices - Linux, OS X.
+
+Another idea:
+The Robots are coming - write about Roomba
+
+Roomba was introduced in 2002. As of Feb 2014, over 10 million units have been sold worldwide. Roomba features a set of basic sensors that help it perform tasks. For instance, the Roomba is able to change direction on encountering obstacles, to detect dirty spots on the floor, and to sense steep drops to keep it from falling down stairs. It uses two independently operating wheels that allow 360° turns in place. Additionally, it can adapt to perform other more creative tasks using an embedded computer in conjunction with the Roomba Open Interface.
+https://en.wikipedia.org/wiki/Roomba
+images: http://www.irobot.com/For-the-Home/Vacuum-Cleaning/Roomba.aspx
+
+* page 8 - Security
+keep guidelines callout at bottom.
+article on making a smartphone into a surveillance weapon
+
+Video surveillance, often associated with bank-robbing and 7-11s, isn't just for retailers. Thanks to dirt-cheap apps like iCam, anyone with a computer and smartphone can set up their own video surveillance with little effort and without breaking the bank.
+
+When you're on vacation, traveling for work, or even want to set up baby monitoring, iCam provides the tools to turn your computer's Webcam (or an IP camera) into a surveillance camera that you can monitor remotely with your smartphone or tablet.
+
+You'll spend $5 total, and get access to features like motion detection, multi-camera monitoring, audio streaming, and even pan-tilt control for select IP cameras (more on that below.) 
+
+Step 1: Set up iCam on your computer(s)
+Head to http://skjm.com/icam/support.php and download iCamSource for Mac or PC. Once installed, start the program and select your Webcam from the drop-down list next to Video source. Then, create a secure username and password. Use one that you'll remember, but make sure it's secure so that no one, especially friends and family, can crack it.
+
+Finally, click Start. If iCam asks, give it access through your firewall. Repeat this installation for every computer with a Webcam you want to use for surveillance.
+
+If you want more cameras for surveillance without the bulk of a laptop or desktop computer, consider purchasing an IP Webcam (check out iCam's recommendations). These are standalone Webcams that can connect to Wi-Fi to stream to surveillance, and can be panned and tilted using your phone or tablet. Here are the setup instructions for using an IP camera with iCam.
+
+Step 2: Install iCam on your Android or iOS device
+With your cameras set up, you're ready to start remotely viewing the surveillance with your mobile device. To get started, get the app for Android (Play Store link) or iOS (App Store link).
+
+When you launch the iCam app for the first time, it'll ask you if you'd like to receive push notifications when it detects motion. Enable or disable notifications based on your preferences. My advice is to begin by enabling motion notifications, only disabling them if you realize it's unnecessary or the pop-ups come too frequently
+
+Then, log in with the username and password you chose in step 1, and you'll see surveillance cameras appear on screen.
+
+Please note:
+
+    In order for this setup to work, the computers you use as surveillance cameras must remain on and connected to the Internet.
+    Since the stills iCam records when it detects motion are kept on the computer that sees them, you won't be able to access those images while you're away. To get around this, consider storing the stills in your Dropbox folder. Head to iCam on your Desktop, click on the "Motion detection" tab, and click Change under "Motion events folder."
+
+http://www.cnet.com/how-to/icam-is-the-cheap-easy-way-to-get-remote-video-surveillance/
+
+* page 9 - recommended movies/documentaries/reading
+
+Documentary: The True Cost. http://www.imdb.com/title/tt3162938/
+
+It's really an eye opener to the secrets behind the clothing industry. In fact the western corporates and consumers have blood on their hands by choosing to stay ignorant about the clothing and food industry. It's sickening how these "happy commercials of lush beauty and nice clothes" are use to fool the world and making it worse and worse for out planet and third world people....SEE THIS AND THINK AGAIN!
+
+Never ever will you buy your clothes without thinking about where it's coming from and what role it played in the environment and the workers behind these clothes. I hope people will start opening their eyes with this documentary
+
+This is a story about clothing. It's about the clothes we wear, the people who make them, and the impact the industry is having on our world. The price of clothing has been decreasing for decades, while the human and environmental costs have grown dramatically. The True Cost is a groundbreaking documentary film that pulls back the curtain on the untold story and asks us to consider, who really pays the price for our clothing? Filmed in countries all over the world, from the brightest runways to the darkest slums, and featuring interviews with the world's leading influencers including Stella McCartney, Livia Firth and Vandana Shiva, The True Cost is an unprecedented project that invites us on an eye opening journey around the world and into the lives of the many people and places behind our clothes. 
+
+Images: get from google images
+
+* page 10 - Member project
+
+Fish stocking is the practice of raising fish in a hatchery and releasing them into a river, lake, or the ocean to supplement existing populations, or to create a population where none exists. Stocking may be done for the benefit of commercial, recreational, or tribal fishing, but may also be done to restore or increase a population of threatened or endangered fish in a body of water closed to fishing.
+
+Fish stocking may be done by governmental agencies in public waters,[1] or by private groups in private waters. In Nyari it is done only by Dr and Mrs Aggarwal and their daughters as far as we know. They have been stocking:
+
+Tilapia - the common name for nearly a hundred species of cichlid fish from the tilapiine cichlid tribe. Tilapia are mainly freshwater fish inhabiting shallow streams, ponds, rivers and lakes and less commonly found living in brackish water. Historically, they have been of major importance in artisan fishing in Africa and the Levant and are of increasing importance in aquaculture and aquaponics. Tilapia can become problematic invasive species in new warm-water habitats such as Australia,[2] whether deliberately or accidentally introduced, but generally not in temperate climates due to their inability to survive in waters cooler than about 21 °C (70 °F).
+
+and
+
+The largemouth bass (Micropterus salmoides) is a freshwater gamefish in the sunfish family, a species of black bass native to North America. It is known by a variety of regional names, such as the brown bass, widemouth bass, bigmouth bass, black bass, bucketmouth, Potter's fish, Florida bass, Florida largemouth, green bass, green trout, gilsdorf bass, linesides, Oswego bass, southern largemouth and (paradoxically) northern largemouth.[3] The largemouth bass is the state fish of Alabama[4] (official freshwater fish), Georgia,[5] Mississippi,[6] Florida[7] (state freshwater fish), and Tennessee[8] (official sport fish).
+
+images from Google images
+
+* page 11 - filler
